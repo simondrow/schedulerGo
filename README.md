@@ -1,5 +1,6 @@
-# Go 任务调度 API 服务器
+# Go Task Scheduling API Server //Go 任务调度 API 服务器
 
+This is a task scheduling API server based on the **Gin framework** and **MongoDB**, implemented in Go language.
 这是一个基于 **Gin 框架** 和 **MongoDB** 的任务调度 API 服务器，使用 Go 语言实现。
 
 ## 技术栈
